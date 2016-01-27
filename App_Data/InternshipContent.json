@@ -1,0 +1,46 @@
+﻿{
+  "internship": {
+    "header": {
+      "en": "Internships and hosts",
+      "fr": "Placeholder"
+    },
+    "text": {
+      "header": {
+        "en": "During the third and final year of the professional program in Computer Science, our students offer their services to industry at no charge. By programming in industry, students complete a work stage for which they receive course credit.  ",
+        "fr": "Placeholder"
+      },
+      "text": {
+        "en": "The objective of this \"stage\" is to provide the third year Computer Science student with an industry apprenticeship involving analysis, design and/or implementation of a system, networking , programming using modern web and mobile tools as specified by the host company. ",
+        "fr": "Placeholder"
+      }
+    }
+  },
+  "companies": {
+    "header": {
+      "en": "Our host companies",
+      "fr": "Placeholder"
+    },
+    "links": [
+      [
+        {
+          "link": "http://www.freschelegacy.com/",
+          "label": "Fresche Legacy"
+        },
+        {
+          "link": "http://www.mediagrif.com/",
+          "label": "Mediagrif"
+        }
+      ],
+      [
+        {
+          "link": "http://www.lallemand.com/",
+          "label": "Lallemand"
+        },
+        {
+          "link": "http://acceo.com/",
+          "label": "ACCEO Solutions"
+        }
+      ]
+    ]
+  }
+}

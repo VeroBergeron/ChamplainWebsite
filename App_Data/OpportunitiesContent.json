@@ -1,0 +1,49 @@
+﻿{
+  "opportunities": {
+    "header": {
+      "en": "Career opportunities",
+      "fr": "Placeholder"
+    },
+    "content": {
+      "en": [
+        "Prospects for both employment and advancement in the Information Technology industry are excellent. Over the past three years, the demand for IT professionals in Canada has doubled as baby boomers opt for retirement. The typical starting salary upon graduation is $45,000. Students may also further their studies at university. ",
+        "<span class='strong'>A career as a Computer Programmer Analyst can provide you with exciting and rewarding work in areas such as:</span> computer programming, web development systems development, data modeling, and database administration."
+      ],
+      "fr": [
+        "Placeholder"
+      ]
+    }
+  },
+  "skill": {
+    "header": {
+      "en": "The program provides you with skills in:",
+      "fr": "Placeholder"
+    },
+    "skills": [
+      {
+        "en": [
+          "problem solving",
+          "software design",
+          "operating systems",
+          "computer programming",
+          "client/server - multi tiered architecture",
+          "web development"
+        ],
+        "fr": [
+        ]
+      },
+      {
+        "en": [
+          "object-oriented programming",
+          "mobile device programming",
+          "database design and management",
+          "mainframe application programming",
+          "networking"
+        ],
+        "fr": [
+        ]
+      }
+    ]
+  }
+
+}

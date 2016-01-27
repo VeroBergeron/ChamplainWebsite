@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Semester.ascx.cs" Inherits="Pages_View1" %>
-<div id="2" class="hiddenContent">
+<div id="4" class="hiddenContent">
     <h2><%= content["header"]["en"] %></h2>
     <div class="row">
     <% 
