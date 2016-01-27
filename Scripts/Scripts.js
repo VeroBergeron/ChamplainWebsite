@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿document.getElementById("toggleTheme").onclick = function toggleTheme() {
+=======
+﻿    document.getElementById("toggleTheme").onclick = function toggleTheme() {
+>>>>>>> 56518c9e7b0c92f1250531b44dbe986b85702725
     var theme = document.getElementById("contentWrapper").className;
     if (theme == "dark")
         document.getElementById("contentWrapper").className = "light";
