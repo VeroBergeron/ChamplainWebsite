@@ -39,12 +39,12 @@
         <div id="contentWrapper" class="light">
             <!--This is the content that changes depending of the page
                 class defines css theme-->
-            <view:About runat="server" />
-            <view:Semester runat="server"/>
-            <view:Internship runat="server"/>
-            <view:Requirement runat="server"/>
-            <view:Opportunities runat="server"/>
-            <view:HostExternship runat="server"/>
+            <view:About runat="server" ID="About"/>
+            <view:Semester runat="server" ID="Semester"/>
+            <view:Internship runat="server" ID="Internship"/>
+            <view:Requirement runat="server" ID="Requirement"/>
+            <view:Opportunities runat="server" ID="Opportunities"/>
+            <view:HostExternship runat="server" ID="HostExternship"/>
         </div>
     <footer>
         <div class="row" id="footerTop">
