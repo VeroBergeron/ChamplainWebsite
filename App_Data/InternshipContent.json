@@ -1,24 +1,24 @@
 ﻿{
   "internship": {
     "header": {
-      "en": "Internships and hosts",
-      "fr": "Placeholder"
+      "en": "Externships and hosts",
+      "fr": "Stages et compagnies hôtesses"
     },
     "text": {
       "header": {
         "en": "During the third and final year of the professional program in Computer Science, our students offer their services to industry at no charge. By programming in industry, students complete a work stage for which they receive course credit.  ",
-        "fr": "Placeholder"
+        "fr": "Au cours de leur troisième et dernière année dans le programme professionnel d’informatique, nos étudiants offrent leurs services à une industrie sans charge. En programmant dans le marché du travail, nos étudiants réalisent un stage pour lequel des crédits leur sont accordés. "
       },
       "text": {
-        "en": "The objective of this \"stage\" is to provide the third year Computer Science student with an industry apprenticeship involving analysis, design and/or implementation of a system, networking , programming using modern web and mobile tools as specified by the host company. ",
-        "fr": "Placeholder"
+        "en": "The objective of this stage is to provide the third year Computer Science student with an industry apprenticeship involving analysis, design and/or implementation of a system, networking , programming using modern web and mobile tools as specified by the host company. ",
+        "fr": "L’objectif du stage est d’offrir aux étudiants de troisième année du programme une expérience d’apprentissage dans le marché du travail. Cette expérience inclue de l’analyse, du design et/ou de l’implémentation de système, de la réseautique, de la programmation a laide d’outils modernes et web selon la compagnie hôtesse."
       }
     }
   },
   "companies": {
     "header": {
       "en": "Our host companies",
-      "fr": "Placeholder"
+      "fr": "Nos compagnies hôtesses"
     },
     "links": [
       [

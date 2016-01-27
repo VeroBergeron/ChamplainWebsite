@@ -1,67 +1,67 @@
 ﻿{
   "header": {
     "en": "Semester breakdown",
-    "fr": "Placeholder"
+    "fr": "Division des sessions"
   },
   "text": {
     "semesters": [
       {
         "title": {
           "en": "Semester 1",
-          "fr": "Placeholder"
+          "fr": "1<sup>ère</sup> session"
         },
         "courses": [
           {
             "en": "English",
-            "fr": "Placeholder"
+            "fr": "Anglais"
           },
           {
             "en": "Humanities",
-            "fr": "Placeholder"
+            "fr": "Philosophie"
           },
           {
             "en": "French",
-            "fr": "Placeholder"
+            "fr": "Français"
           },
           {
             "en": "Physical Education",
-            "fr": "Placeholder"
+            "fr": "Éducation physique"
           },
           {
             "en": "Computing Mathematics",
-            "fr": "Placeholder"
+            "fr": "Mathématiques pour informatique"
           },
           {
             "en": "Computer Fundamentals",
-            "fr": "Placeholder"
+            "fr": "Informatique élémentaire"
           },
           {
             "en": "Introduction to OOP (Object Oriented Programming)",
-            "fr": "Placeholder"
+            "fr": "Introduction a la programmation orientée objet"
           },
           {
             "en": "Web Interface Design",
-            "fr": "Placeholder"
+            "fr": "Design d’interfaces web"
           }
         ]
       },
       {
         "title": {
           "en": "Semester 2",
-          "fr": "Placeholder"
+          "fr": "2<sup>ème</sup> session"
         },
         "courses": [
           {
             "en": "English",
-            "fr": "Placeholder"
+            "fr": "Anglais"
           },
           {
             "en": "French",
-            "fr": "Placeholder"
+            "fr": "Français"
           },
           {
             "en": "Humanities",
-            "fr": "Placeholder"
+            "fr": "Philosophie"
           },
           {
             "en": "Complementary",
@@ -69,159 +69,159 @@
           },
           {
             "en": "Quantitative Methods for Computer Science Students",
-            "fr": "Placeholder"
+            "fr": "Complémentaire"
           },
           {
             "en": "Programming with Java",
-            "fr": "Placeholder"
+            "fr": "Programmation Java"
           },
           {
             "en": "Web Site Planning and Implementation",
-            "fr": "Placeholder"
+            "fr": "Planification et implémentation de sites web"
           },
           {
             "en": "Operating Systems and Scripting",
-            "fr": "Placeholder"
+            "fr": "Systèmes d’opération et scripts"
           },
           {
             "en": "Configuring, Managing and Maintaining Computers",
-            "fr": "Placeholder"
+            "fr": "Configuration, gestion et maintient d’ordinateurs"
           }
         ]
       },
       {
         "title": {
           "en": "Semester 3",
-          "fr": "Placeholder"
+          "fr": "3<sup>ème</sup> session"
         },
         "courses": [
           {
             "en": "English",
-            "fr": "Placeholder"
+            "fr": "Anglais"
           },
           {
             "en": "Physical Education",
-            "fr": "Placeholder"
+            "fr": "Éducation physique"
           },
           {
             "en": "Complementary",
-            "fr": "Placeholder"
+            "fr": "Complémentaire"
           },
           {
             "en": "Business Fundamentals for IT",
-            "fr": "Placeholder"
+            "fr": "Introduction aux affaires pour TI"
           },
           {
             "en": "Networking and Internet Services",
-            "fr": "Placeholder"
+            "fr": "Réseautique et services Internet"
           },
           {
             "en": "COBOL Programming",
-            "fr": "Placeholder"
+            "fr": "Programmation COBOL"
           },
           {
             "en": "Database Design and SQL Language",
-            "fr": "Placeholder"
+            "fr": "Design de bases de données et langage SQL"
           },
           {
             "en": "Game Development",
-            "fr": "Placeholder"
+            "fr": "Développent de jeux vidéos"
           }
         ]
       },
       {
         "title": {
           "en": "Semester 4",
-          "fr": "Placeholder"
+          "fr": "4<sup>ème</sup> session"
         },
         "courses": [
           {
             "en": "English",
-            "fr": "Placeholder"
+            "fr": "Anglais"
           },
           {
             "en": "Humanities",
-            "fr": "Placeholder"
+            "fr": "Philosophie"
           },
           {
             "en": "Physical Education",
-            "fr": "Placeholder"
+            "fr": "Éducation physique"
           },
           {
             "en": "Social Media Business Tool",
-            "fr": "Placeholder"
+            "fr": "Réseaux sociaux en tant qu’outil d’affaires"
           },
           {
             "en": "Business Systems Analysis",
-            "fr": "Placeholder"
+            "fr": "Analyse de systèmes"
           },
           {
             "en": "JCL/RPG",
-            "fr": "Placeholder"
+            "fr": "JCL/RPG"
           },
           {
             "en": "Legacy System Modernization",
-            "fr": "Placeholder"
+            "fr": "Modernisation de systèmes"
           },
           {
             "en": "Web Programming",
-            "fr": "Placeholder"
+            "fr": "Programmation web"
           }
         ]
       },
       {
         "title": {
           "en": "Semester 5",
-          "fr": "Placeholder"
+          "fr": "5<sup>ème</sup> session"
         },
         "courses": [
           {
             "en": "Database Systems Administration",
-            "fr": "Placeholder"
+            "fr": "Administration de bases de données"
           },
           {
             "en": "Software Testing and Quality Assurance",
-            "fr": "Placeholder"
+            "fr": "Évaluation de logiciels et contrôle de qualité"
           },
           {
             "en": "Building Windows and Web Applications",
-            "fr": "Placeholder"
+            "fr": "Création applications web et <i>Windows</i>"
           },
           {
             "en": "Final Project 1 - Legacy to Mobile",
-            "fr": "Placeholder"
+            "fr": "Projet final 1 - <i>Legacy to Mobile</i>"
           },
           {
             "en": "Mobile Application Development",
-            "fr": "Placeholder"
+            "fr": "Développement d’applications mobiles"
           },
           {
             "en": "Career Planning",
-            "fr": "Placeholder"
+            "fr": "Plan de carrière"
           }
         ]
       },
       {
         "title": {
           "en": "Semester 6",
-          "fr": "Placeholder"
+          "fr": "6<sup>ème</sup> session"
         },
         "courses": [
           {
             "en": "Emerging Technologies",
-            "fr": "Placeholder"
+            "fr": "Nouvelles technologies"
           },
           {
             "en": "Externship - Legacy to Mobile",
-            "fr": "Placeholder"
+            "fr": "Stage - <i>Legacy to Mobile</i>"
           },
           {
             "en": "Final Project 2 - Legacy to Mobile",
-            "fr": "Placeholder"
+            "fr": "Projet final 2 - <i>Legacy to Mobile</i>"
           },
           {
             "en": "Comprehensive Assessment/Digital Portfolio",
-            "fr": "Placeholder"
+            "fr": "Portfolio digital et compréhension"
           }
         ]
       }

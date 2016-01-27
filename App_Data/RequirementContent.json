@@ -2,31 +2,31 @@
   "requirement": {
     "header": {
       "en": "Minimum admission requirements",
-      "fr": "Placeholder"
+      "fr": "Critères minimums d’admission"
     },
     "content": {
       "en": "In order to be admitted to a program leading to a Diploma of College Studies (DEC), applicants must possess a Quebec Secondary School Diploma or have completed a level of education that is deemed equivalent by the College. Applicants must also have successfully completed Mathematics TS 5 or SN 5.s.",
-      "fr": "Placeholder"
+      "fr": "Afin d’être acceptes dans un programme menant à un diplôme d’étude collégiales (DEC), les candidats doivent posséder un diplôme d’études secondaire du Québec ou avoir complété un niveau d’éducation considéré équivalent par le collège. Les candidats doivent aussi avoir complété les mathématiques TS 5 ou SN 5. "
     }
   },
   "priorities": {
     "header": {
       "en": "Admission priorities",
-      "fr": "Placeholder"
+      "fr": "Priorités d’admission"
     },
     "content": {
       "en": "Even if applicants meet the requirements of the <i>Règlement sur le régime des études collégiales</i>, they may be refused admission due to lack of space",
-      "fr": "Placeholder"
+      "fr": "Même si les candidats atteignent les critères du Règlement sur le régime des études collégiales, ils pourraient être refusés à cause d’un manque de places. "
     }
   },
   "contact": {
     "header": {
       "en": "Contact information",
-      "fr": "Placeholder"
+      "fr": "Coordonnées"
     },
     "content": {
       "en": "900 Riverside Drive, Saint-Lambert, Québec, J4P 3P2 <br /> tel: 450-672-7360 fax: 450-672-9299 toll free: 1-877-929-9197 <br /> <span class='strong'>admissions@champlaincollege.qc.ca</span> <br /> www.champlainonline.com",
-      "fr": "Placeholder"
+      "fr": "900 Riverside Drive, Saint-Lambert, Québec, J4P 3P2 <br /> tél: 450-672-7360 fax: 450-672-9299 Sans charge: 1-877-929-9197 <br /> <span class='strong'>admissions@champlaincollege.qc.ca</span> <br /> www.champlainonline.com"
     }
   }
 }

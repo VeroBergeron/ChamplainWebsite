@@ -113,7 +113,7 @@ header{
     margin: 1% 0 0 0;
 }
 
-header img{
+header img, header #toggleLanguage{
     padding-bottom: 3%;
 }
 
@@ -298,4 +298,8 @@ form{
 
 .hostLinks:hover{
     color: #0c489a;
+}
+
+.noMar{
+    margin:0 !important;
 }

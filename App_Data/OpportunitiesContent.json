@@ -1,49 +1,61 @@
 ﻿{
-  "opportunities": {
-    "header": {
-      "en": "Career opportunities",
-      "fr": "Placeholder"
+    "opportunities": {
+        "header": {
+            "en": "Career opportunities",
+            "fr": "Opportunités d’emplois"
+        },
+        "content": {
+            "en": [
+                "Prospects for both employment and advancement in the Information Technology industry are excellent. Over the past three years, the demand for IT professionals in Canada has doubled as baby boomers opt for retirement. The typical starting salary upon graduation is $45,000. Students may also further their studies at university. ",
+                "<span class='strong'>A career as a Computer Programmer Analyst can provide you with exciting and rewarding work in areas such as:</span> computer programming, web development systems development, data modeling, and database administration."
+            ],
+            "fr": [
+                "Les possibilités d’emploi et d’avancement en technologies de l’information sont excellentes. Durant les trois dernières années, la demain de professionnels de TI au Canada a doublé car les baby-boomers ont commencés à prendre leur retraite. Le salaire de base typique après graduation est de 45,000$. Les étudiants peuvent aussi continuer leurs études à l’université.",
+                "Une carrière en tant qu’analyste programmeur peut être excitante et motivante dans des domaines tels que : la programmation d’ordinateurs, le développement web, le développement de systèmes, la modélisation de données et l’administration de bases de données. "
+            ]
+        }
     },
-    "content": {
-      "en": [
-        "Prospects for both employment and advancement in the Information Technology industry are excellent. Over the past three years, the demand for IT professionals in Canada has doubled as baby boomers opt for retirement. The typical starting salary upon graduation is $45,000. Students may also further their studies at university. ",
-        "<span class='strong'>A career as a Computer Programmer Analyst can provide you with exciting and rewarding work in areas such as:</span> computer programming, web development systems development, data modeling, and database administration."
-      ],
-      "fr": [
-        "Placeholder"
-      ]
+    "skill": {
+        "header": {
+            "en": "The program provides you with skills in:",
+            "fr": "Le programme vous aide à développer vos aptitudes en:"
+        },
+        "skills": [
+            {
+                "en": [
+                    "problem solving",
+                    "software design",
+                    "operating systems",
+                    "computer programming",
+                    "client/server - multi tiered architecture",
+                    "web development"
+                ],
+                "fr": [
+                    "résolution de problèmes",
+                    "design de logiciels",
+                    "systèmes d’opération",
+                    "programmation",
+                    "architecture client/serveur - multi niveaux",
+                    "développement web"
+                ]
+            },
+            {
+                "en": [
+                    "object-oriented programming",
+                    "mobile device programming",
+                    "database design and management",
+                    "mainframe application programming",
+                    "networking"
+                ],
+                "fr": [
+                    "programmation orientée objet",
+                    "programmation mobile",
+                    "gestion de bases de données",
+                    "programmation d’application centrales",
+                    "réseautique"
+                ]
+            }
+        ]
     }
-  },
-  "skill": {
-    "header": {
-      "en": "The program provides you with skills in:",
-      "fr": "Placeholder"
-    },
-    "skills": [
-      {
-        "en": [
-          "problem solving",
-          "software design",
-          "operating systems",
-          "computer programming",
-          "client/server - multi tiered architecture",
-          "web development"
-        ],
-        "fr": [
-        ]
-      },
-      {
-        "en": [
-          "object-oriented programming",
-          "mobile device programming",
-          "database design and management",
-          "mainframe application programming",
-          "networking"
-        ],
-        "fr": [
-        ]
-      }
-    ]
-  }
 
 }

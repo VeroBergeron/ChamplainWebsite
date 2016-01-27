@@ -20,6 +20,7 @@
                     <a href="http://www.champlainonline.com/champlainweb/future-students/computer-science/"><img src="Images/champlainicon.png" alt="Champlain Computer Science Page"/></a>
                     <a href="https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA"><img src="Images/youtubeIcon.png" alt="Our Youtube Channel"/></a>
                     <img src="Images/themeIcon.png" alt="Change Theme" id="toggleTheme"/>
+                    <asp:ImageButton ID="toggleLanguage" runat="server" ImageUrl="Images/languageicon.jpg" CssClass="noMar" OnClick="toggleLanguage_Click"/>
                 </div>
             </div>
             <div id="title"><h1 class="wrapper">computer science - legacy to mobile</h1></div>

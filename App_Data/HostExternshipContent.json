@@ -1,20 +1,20 @@
 ﻿{
   "header": {
     "en": "Host externship",
-    "fr": "Placeholder"
+    "fr": "Accueillir des stagiaires"
   },
   "content": {
     "description": {
       "en": "The externship project normally operates under the direct supervision of an analyst from the host organization, in liaison with a designated faculty representative from the College. The student is required to work according to the norms and standards of the organization, and to produce all documentation required for his or her project. In order to ensure the success of the project, we depend upon the close collaboration of the host organization.",
-      "fr": "Placeholder"
+      "fr": "Le projet de stage se passe typiquement sous la supervision directe d’un analyste de la compagnie hôtesse, en liaison avec le représentant de programme désigné du collège. L’étudiant doit travailler selon les normes et standards de l’entreprise, ainsi que produire toute documentation requise pour son projet. Afin the s’assurer du succès du projet, nous dépendons de la collaboration de l’entreprise hôtesse."
     },
     "interested": {
       "en": "If you are interested on hosting a externship, please contact:",
-      "fr": "Placeholder"
+      "fr": "Si vous souhaitez accueillir des stagiaires, veuillez contacter : "
     },
     "contact_info": {
       "en": "Mr Pedro G Cabrejo.<br /> (514) 672-7360 x264 (College)<br /> pedro@champlaincollege.qc.ca",
-      "fr": "Placeholder"
+      "fr": "M Pedro G Cabrejo.<br /> (514) 672-7360 x264 (College)<br /> pedro@champlaincollege.qc.ca"
     }
   }
 }

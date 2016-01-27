@@ -1,16 +1,16 @@
 ﻿{
   "header": {
     "en": "About the Program",
-    "fr": "Placeholder"
+    "fr": "À propos du programme"
   },
   "text": {
     "header": {
-      "en": "The Legacy to Mobile (L2M) program provides a unique experience in developing and supporting computer systems to satisfy business requirements. Graduates are well trained for a career as a programmer analyst or as technical support. Students will also benefit from excellent on-site training at companies, which may lead to full-time jobs.",
-      "fr": "Placeholder"
+        "en": "The Legacy to Mobile (L2M) program provides a unique experience in developing and supporting computer systems to satisfy business requirements. Graduates are well trained for a career as a programmer analyst or as technical support. Students will also benefit from excellent on-site training at companies, which may lead to full-time jobs.",
+      "fr": "Le programme <i>Legacy to Mobile (L2M) </i> offre une expérience unique en support et développement de systèmes informatique répondant aux exigences professionnelles."
     },
     "content": {
       "en": "Our courses are constantly evolving to meet the needs of employers. Learning takes place in both the classrooms and computer labs. Our teachers bring sound knowledge and experience to the classroom. This three-year program is well-suited for students who are interested in computer programming. Champlain has become one of the few cégeps in Quebec to offer mainframe programming and, through our partnership with the well established Fresche Legacy, students will have access to mainframe resources. In addition, students will focus on IT modernization solutions, which include programming for mobile platforms such as tablets and phones.",
-      "fr": "Placeholder"
+      "fr": "Nos cours évoluent continuellement afin de répondre aux besoins des employeurs. L’apprentissage se conduit aussi bien dans les salles de classe que dans les laboratoires informatique. Nos enseignants apportent des connaissances sans failles ainsi que de l’expérience aux cours. Ce programme de trois ans est bien adapte aux étudiants qui sont intéresses en programmation. Champlain est devenu un des rares cegeps au Québec à offrir la programmation d’ordinateurs centraux. Grace à notre partenariat avec <i>Fresche Legacy</i>, nos étudiants ont accès aux ressources nécessaires a ce type de programmation. De plus, les étudiants se concentreront sur les solutions de modernisation TI, qui comprennent la programmation de plateformes mobiles, comme des tablettes et téléphones."
     }
   }
 }
