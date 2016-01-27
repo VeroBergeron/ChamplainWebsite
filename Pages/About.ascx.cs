@@ -4,19 +4,17 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using System.IO;
 
 public partial class Pages_View1 : System.Web.UI.UserControl
 {
+
+    public dynamic content;
+
     protected void Page_Load(object sender, EventArgs e)
     {
-
+        dynamic json = JsonHandler.toJson(JsonHandler.fromFile("AboutContent.json"));
+        content = json;
     }
 
-    public String Class
-    {
-        set
-        {
-            panel.CssClass = value;
-        }
-    }
 }

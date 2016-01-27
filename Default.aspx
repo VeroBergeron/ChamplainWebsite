@@ -40,11 +40,11 @@
             <!--This is the content that changes depending of the page
                 class defines css theme-->
             <view:About runat="server" />
-            <view:Semester runat="server" Class="hiddenContent"/>
-            <view:Internship runat="server" Class="hiddenContent"/>
-            <view:Semester runat="server" Class="hiddenContent"/>
-            <view:Opportunities runat="server" Class="hiddenContent"/>
-            <view:HostExternship runat="server" Class="hiddenContent"/>
+            <view:Semester runat="server"/>
+            <view:Internship runat="server"/>
+            <view:Requirement runat="server"/>
+            <view:Opportunities runat="server"/>
+            <view:HostExternship runat="server"/>
 
         </div>
     <footer>

@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Semester.ascx.cs" Inherits="Pages_View1" %>
-<asp:Panel runat="server" ID="panel">
+<div id="2" class="hiddenContent">
     <h2>SEMESTER BREAKDOWN</h2>
     <div class="row">
         <div class="four columns">
@@ -78,4 +78,4 @@
             </ul>
         </div>
     </div>
-</asp:Panel>
+</div>

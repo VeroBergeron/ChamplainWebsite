@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Internship.ascx.cs" Inherits="Pages_View1" %>
-<asp:Panel runat="server" ID="panel">
+<div id="3" class="hiddenContent">
     <h2>INTERNSHIPS AND HOSTS</h2>
     <p class="strong">
         During the third and final year of the professional program in Computer Science, our students offer their services to industry at no charge. By 
@@ -24,4 +24,4 @@
             </ul>
         </div>
     </div>
-</asp:Panel>
+</div>

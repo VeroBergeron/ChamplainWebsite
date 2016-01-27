@@ -11,11 +11,4 @@ public partial class Pages_View1 : System.Web.UI.UserControl
     {
 
     }
-    public String Class
-    {
-        set
-        {
-            panel.CssClass = value;
-        }
-    }
-}
+ }

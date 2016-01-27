@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Opportunities.ascx.cs" Inherits="Pages_View1" %>
-<asp:Panel runat="server" ID="panel">
+<div id="4" class="hiddenContent">
     <h2>CAREER OPORTUNITIES</h2>
     <p>
         Prospects for both employment and advancement in the Information Technology industry are excellent. Over the past three years, the demand for IT 
@@ -32,4 +32,4 @@
             </ul>
         </div>
     </div>
-</asp:Panel>
+</div>

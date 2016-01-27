@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="HostExternship.ascx.cs" Inherits="Pages_View1" %>
-<asp:Panel runat="server" ID="panel">
+<div id="6" class="hiddenContent">
     <h2>HOST EXTERNSHIPS</h2>
     <p>
         The externship project normally operates under the direct supervision of an analyst from the host organization, in liaison with a designated faculty 
@@ -15,4 +15,4 @@
         </p>
 
     </p>
-</asp:Panel>
+</div>

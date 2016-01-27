@@ -1,5 +1,5 @@
 ﻿<%@ Control Language="C#" AutoEventWireup="true" CodeFile="Requirement.ascx.cs" Inherits="Pages_View1" %>
-<asp:Panel runat="server" ID="panel">
+<div id="5" class="hiddenContent">
     <h2>MINIMUM ADMISSION REQUIREMENTS</h2>
     <p>
         In order to be admitted to a program leading to a Diploma of College Studies (DEC), applicants must possess a Quebec Secondary School Diploma 
@@ -16,4 +16,4 @@
         <span class="strong">admissions@champlaincollege.qc.ca</span> <br />
         www.champlainonline.com
     </p>
-</asp:Panel>
+</div>
