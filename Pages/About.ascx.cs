@@ -13,7 +13,7 @@ public partial class Pages_View1 : System.Web.UI.UserControl
 
     protected void Page_Load(object sender, EventArgs e)
     {
-        dynamic json = JsonHandler.toJson(JsonHandler.fromFile("AboutContent.json"));
+        dynamic json = JsonHandler.fileToJson("AboutContent.json");
         content = json;
     }
 

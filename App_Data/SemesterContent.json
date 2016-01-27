@@ -1,0 +1,229 @@
+﻿{
+  "header": {
+    "en": "Semester breakdown"
+  },
+  "text": {
+    "semesters": [
+      {
+        "title": {
+          "en": "Semester 1",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "English",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Humanities",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "French",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Physical Education",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Computing Mathematics",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Computer Fundamentals",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Introduction to OOP (Object Oriented Programming)",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Web Interface Design",
+            "fr": "Placeholder"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "Semester 2",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "English",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "French",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Humanities",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Complementary",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Quantitative Methods for Computer Science Students",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Programming with Java",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Web Site Planning and Implementation",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Operating Systems and Scripting",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Configuring, Managing and Maintaining Computers",
+            "fr": "Placeholder"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "Semester 3",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "English",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Physical Education",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Complementary",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Business Fundamentals for IT",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Networking and Internet Services",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "COBOL Programming",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Database Design and SQL Language",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Game Development",
+            "fr": "Placeholder"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "Semester 4",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "English",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Humanities",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Physical Education",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Social Media Business Tool",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Business Systems Analysis",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "JCL/RPG",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Legacy System Modernization",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Web Programming",
+            "fr": "Placeholder"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "Semester 5",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "Database Systems Administration",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Software Testing and Quality Assurance",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Building Windows and Web Applications",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Final Project 1 - Legacy to Mobile",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Mobile Application Development",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Career Planning",
+            "fr": "Placeholder"
+          }
+        ]
+      },
+      {
+        "title": {
+          "en": "Semester 6",
+          "fr": "Placeholder"
+        },
+        "courses": [
+          {
+            "en": "Emerging Technologies",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Externship - Legacy to Mobile",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Final Project 2 - Legacy to Mobile",
+            "fr": "Placeholder"
+          },
+          {
+            "en": "Comprehensive Assessment/Digital Portfolio",
+            "fr": "Placeholder"
+          }
+        ]
+      }
+    ]
+  }
+}

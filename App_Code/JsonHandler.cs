@@ -18,7 +18,7 @@ public class JsonHandler
         //
     }
 
-    public static String fromFile(String filename)
+    private static String fromFile(String filename)
     {
         String dataFolder = Path.Combine(HttpContext.Current.Request.PhysicalApplicationPath, "App_Data");
         StreamReader sr = new StreamReader(dataFolder + "/" +filename);
@@ -26,10 +26,15 @@ public class JsonHandler
         return jsonString;
     }
 
-    public static dynamic toJson(String jsonString)
+    private static dynamic toJson(String jsonString)
     {
         JavaScriptSerializer js = new JavaScriptSerializer();
         dynamic json = js.Deserialize<dynamic>(jsonString);
         return json;
+    }
+
+    public static dynamic fileToJson(String filename)
+    {
+        return toJson(fromFile(filename));
     }
 }
