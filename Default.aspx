@@ -27,12 +27,14 @@
             <nav>
                 <div id="nav">
                     <ul>
-                        <li onclick="changePage(1)">the program</li>
-                        <li onclick="changePage(2)">career opportunities</li>
-                        <li onclick="changePage(3)">externships and hosts</li>
-                        <li onclick="changePage(4)">semester breakdown</li>
-                        <li onclick="changePage(5)">applications</li>
-                        <li onclick="changePage(6)">host externships</li>
+                        <%
+                            foreach (dynamic links in content["links"])
+                            {
+                                %>
+                            <li onclick="<%= links["onclick"] %>"><%= links["label"][locale] %></li>
+                        <%
+                            }
+                             %>
                     </ul>
                 </div>
             </nav>
@@ -50,29 +52,25 @@
     <footer>
         <div class="row" id="footerTop">
             <div class="wrapper">
+                <%
+                    foreach (dynamic column in content["footer"]["columns"])
+                    {
+                         %>
                 <div class="four columns">
-                    <h5>students</h5>
-                    <ul class="footerLinks">
-                        <li><a href="http://www.champlainonline.com/champlainweb/future-students/computer-science/">Champlain's Page</a></li>
-                        <li><a href="http://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/">Apply to Champlain</a></li>
-                        <li><a href="https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA">Our Youtube Channel</a></li>
+                    <h5><%= column["header"][locale] %></h5>
+                    <ul class="footerLinks <%= column["class"] %>">
+                        <%
+                            foreach (dynamic link in column["links"])
+                            {
+
+                             %>
+
+                            <li><%= link["text"][locale] %></li>
+                        <%
+                            } %>
                     </ul>
                 </div>
-                <div class="four columns">
-                    <h5>companies</h5>
-                    <ul class="footerLinks">
-                        <li><a href="#">Host Internships</a></li>
-                        <li><a href="Files/Stage_Policies_and_Procedures_W2016.pdf" id="stageDocument">Stage Policies and Procedures</a></li>
-                    </ul>
-                </div>
-                <div class="four columns">
-                    <h5>contact</h5>
-                    <ul class="footerLinks lightBlue">
-                        <li>Mr Pedro G Cabrejo</li>
-                        <li>(514) 672-7360 x264 (College)</li>
-                        <li>pedro@champlaincollege.qc.ca</li>
-                    </ul>
-                </div>
+                <%} %>
             </div>
         </div>
 

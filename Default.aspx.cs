@@ -8,13 +8,17 @@ using System.Web.UI.WebControls;
 
 public partial class _Default : System.Web.UI.Page
 {
-    static String locale = "en";
+    public static String locale = "en";
+    public dynamic content;
+
     protected void Page_Load(object sender, EventArgs e)
     {
         if (!Page.IsPostBack)
         {
             setLocale(locale);
         }
+        dynamic json = JsonHandler.fileToJson("Master.json");
+        content = json;
     }
 
     private void setLocale(String locale)

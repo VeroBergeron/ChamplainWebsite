@@ -1,0 +1,125 @@
+﻿{
+  "links": [
+    {
+      "onclick": "1",
+      "label": {
+        "en": "the program",
+        "fr": "le programme"
+      }
+    },
+    {
+      "onclick": "2",
+      "label": {
+        "en": "career opportunities",
+        "fr": "Opportunités d’emplois"
+      }
+    },
+    {
+      "onclick": "3",
+      "label": {
+        "en": "externships and hosts",
+        "fr": "Stages"
+      }
+    },
+    {
+      "onclick": "4",
+      "label": {
+        "en": "semester breakdown",
+        "fr": "Division des sessions"
+      }
+    },
+    {
+      "onclick": "5",
+      "label": {
+        "en": "applications",
+        "fr": "Demandes d'admission"
+      }
+    },
+    {
+      "onclick": "6",
+      "label": {
+        "en": "host externships",
+        "fr": "Accueillir des stagiaires"
+      }
+    }
+  ],
+  "footer": {
+    "columns": [
+      {
+        "header": {
+          "fr": "Etudiants",
+          "en": "students"
+        },
+        "class": "",
+        "links": [
+          {
+            "text": {
+              "en": "<a href=\"http://www.champlainonline.com/champlainweb/future-students/computer-science/\">Champlain's Page</a>",
+              "fr": "<a href=\"http://www.champlainonline.com/champlainweb/future-students/computer-science/\">Site officiel</a>"
+            }
+          },
+          {
+            "text": {
+              "en": "<a href=\"http://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/\">Apply to Champlain</a>",
+              "fr": "<a href=\"http://www.champlainonline.com/champlainweb/future-students/apply-to-champlain/\">Appliquer a Champlain</a>"
+            }
+          },
+          {
+            "text": {
+              "en": "<a href=\"https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA\">Our Youtube Channel</a>",
+              "fr": "<a href=\"https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA\">Notre chaine Youtube</a>"
+            }
+          }
+        ]
+      },
+      {
+        "header": {
+          "fr": "compagnies",
+          "en": "companies"
+        },
+        "class": "",
+        "links": [
+          {
+            "text": {
+              "en": "<a href=\"#\">Host Externships</a>",
+              "fr": "<a href=\"#\">Accueillir des stagiaires</a>"
+            }
+          },
+          {
+            "text": {
+              "en": "<a href=\"Files/Stage_Policies_and_Procedures_W2016.pdf\" id=\"stageDocument\">Stage Policies and Procedures</a>",
+              "fr": "<a href=\"Files/Stage_Policies_and_Procedures_French_2016_1.pdf\" id=\"stageDocument\">Procedures et reglements de stages</a>"
+            }
+          }
+        ]
+      },
+      {
+        "header": {
+          "fr": "Contacte",
+          "en": "Contact"
+        },
+        "class": "lightBlue",
+        "links": [
+          {
+            "text": {
+              "en": "Mr Pedro G Cabrejo",
+              "fr": "M. Pedro G Cabrejo"
+            }
+          },
+          {
+            "text": {
+              "en": "(514) 672-7360 x264 (college)",
+              "fr": "(514) 672-7360 x264 (college)"
+            }
+          },
+          {
+            "text": {
+              "en": "<a href=\"https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA\">Our Youtube Channel</a>",
+              "fr": "<a href=\"https://www.youtube.com/channel/UCqM5dLuKooWQ_cdod5lQ1cA\">Our Youtube Channel</a>"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
