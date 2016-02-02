@@ -31,7 +31,7 @@
                             foreach (dynamic links in content["links"])
                             {
                                 %>
-                            <li onclick="<%= links["onclick"] %>"><%= links["label"][locale] %></li>
+                            <li onclick="changePage(<%= links["onclick"] %>)"><%= links["label"][locale] %></li>
                         <%
                             }
                              %>

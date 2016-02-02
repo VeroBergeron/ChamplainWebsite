@@ -32,5 +32,5 @@ document.getElementById("previous").onclick = function previousPage() {
 
 function changePage(id) {
     document.getElementsByClassName("currentContent")[0].className = "hiddenContent";
-    document.getElementById(parseInt(id)).className = "currentContent";
+    document.getElementById(id).className = "currentContent";
 }
